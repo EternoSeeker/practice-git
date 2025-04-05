@@ -1,3 +1,3 @@
 fluff floofies
-a = fluff fluff
-b = floof floof
+a = floof floof
+b = fluff fluffy
